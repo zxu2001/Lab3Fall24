@@ -7,6 +7,7 @@ public class ToDoApp {
         controller.addTask("Buy groceries");
         controller.addTask("Finish work project");
         controller.addTask("Go to the gym");
+        controller.addTask("Go to the school");
 
                // Display the initial To-Do list
                controller.displayToDoList();
